@@ -129,7 +129,7 @@ namespace EDP_GUI
     {
         public frmDashboard()
         {
-            this.Text = "Hobby Shop Dashboard";
+            this.Text = "Hobby Shop Dashboard - updated by Mizell";
             this.Size = new Size(600, 400);
             this.StartPosition = FormStartPosition.CenterScreen;
             this.FormClosed += (s, e) => Application.Exit();
